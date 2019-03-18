@@ -1,0 +1,1365 @@
+[14:44:35] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[14:44:35] [Server thread/INFO]: Loading properties
+[14:44:35] [Server thread/INFO]: Default game type: CREATIVE
+[14:44:35] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6de2fbc-c1aa859 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[14:44:35] [Server thread/INFO]: Debug logging is disabled
+[14:44:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:44:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:44:35] [Server thread/INFO]: Generating keypair
+[14:44:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:44:35] [Server thread/INFO]: Using default channel type
+[14:44:36] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:44:36] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v2.1
+[14:44:36] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.7
+[14:44:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:44:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:44:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:44:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:44:36] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:44:36] [Server thread/INFO]: Preparing level "world"
+[14:44:36] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:44:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:44:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:44:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:44:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:44:36] [Server thread/INFO]: View Distance: 10
+[14:44:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:44:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:44:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:44:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:44:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:44:36] [Server thread/INFO]: Mob Spawn Range: 4
+[14:44:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Max TNT Explosions: 100
+[14:44:36] [Server thread/INFO]: Structure Info Saving: true
+[14:44:36] [Server thread/INFO]: Random Lighting Updates: false
+[14:44:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:44:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[14:44:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:44:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:44:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:44:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:44:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:44:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:44:36] [Server thread/INFO]: View Distance: 10
+[14:44:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:44:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:44:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:44:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:44:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:44:36] [Server thread/INFO]: Mob Spawn Range: 4
+[14:44:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Max TNT Explosions: 100
+[14:44:36] [Server thread/INFO]: Structure Info Saving: true
+[14:44:36] [Server thread/INFO]: Random Lighting Updates: false
+[14:44:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:44:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[14:44:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:44:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:44:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:44:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:44:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:44:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:44:36] [Server thread/INFO]: View Distance: 10
+[14:44:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:44:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:44:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:44:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:44:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:44:36] [Server thread/INFO]: Mob Spawn Range: 4
+[14:44:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:44:36] [Server thread/INFO]: Max TNT Explosions: 100
+[14:44:36] [Server thread/INFO]: Structure Info Saving: true
+[14:44:36] [Server thread/INFO]: Random Lighting Updates: false
+[14:44:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:44:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[14:44:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:44:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: 3081504561307098285)
+[14:44:37] [Server thread/INFO]: Preparing spawn area: 46%
+[14:44:38] [Server thread/INFO]: Preparing start region for level 1 (Seed: 3081504561307098285)
+[14:44:39] [Server thread/INFO]: Preparing spawn area: 75%
+[14:44:39] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3081504561307098285)
+[14:44:39] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v2.1
+[14:44:39] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.7
+[14:44:39] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[14:44:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:44:39] [Server thread/INFO]: Done (3.654s)! For help, type "help" or "?"
+[14:49:54] [User Authenticator #1/INFO]: UUID of player Rod is a7fb18d4-e7a8-39d9-b9f7-25dc87dc4da6
+[14:49:54] [Server thread/INFO]: Rod[/127.0.0.1:56370] logged in with entity id 54 at ([world]-22.547593464303954, 90.0, 31.642224025600065)
+[14:58:09] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[14:58:09] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[14:58:09] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56389.
+[14:58:09] [Server thread/INFO]: You need to get some food: True[m
+[15:00:37] [Thread-9/WARN]: java.net.SocketException: Connection reset
+[15:00:37] [Thread-9/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:00:37] [Thread-9/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:00:37] [Thread-9/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:00:37] [Thread-9/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:00:37] [Thread-9/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:00:37] [Thread-9/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:00:37] [Thread-9/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:00:37] [Thread-9/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:00:37] [Thread-9/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:00:37] [Thread-9/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:00:37] [Thread-9/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:00:37] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56389.
+[15:00:38] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56397.
+[15:00:38] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[15:00:38] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[15:00:38] [Server thread/INFO]: You need to get some food: True[m
+[15:01:27] [Thread-11/WARN]: java.net.SocketException: Connection reset
+[15:01:27] [Thread-11/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:01:27] [Thread-11/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:01:27] [Thread-11/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:01:27] [Thread-11/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:01:27] [Thread-11/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:01:27] [Thread-11/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:01:27] [Thread-11/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:01:27] [Thread-11/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:01:27] [Thread-11/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:01:27] [Thread-11/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:01:27] [Thread-11/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:01:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56397.
+[15:01:27] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[15:01:27] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56408.
+[15:01:27] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[15:01:27] [Server thread/INFO]: You need to get some food: False[m
+[15:07:39] [Thread-13/WARN]: java.net.SocketException: Connection reset
+[15:07:39] [Thread-13/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:07:39] [Thread-13/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:07:39] [Thread-13/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:07:39] [Thread-13/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:07:39] [Thread-13/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:07:39] [Thread-13/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:07:39] [Thread-13/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:07:39] [Thread-13/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:07:39] [Thread-13/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:07:39] [Thread-13/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:07:39] [Thread-13/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:07:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56408.
+[15:07:39] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56434.
+[15:07:39] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[15:07:39] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[15:07:43] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[15:07:43] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[15:07:43] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:159)
+[15:07:43] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:122)
+[15:07:43] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:102)
+[15:07:43] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:163)
+[15:07:43] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:07:43] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353)
+[15:07:43] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:730)
+[15:07:43] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399)
+[15:07:43] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675)
+[15:07:43] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574)
+[15:07:43] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:07:43] [Server thread/INFO]: Boom!![m
+[15:07:55] [Thread-15/WARN]: java.net.SocketException: Connection reset
+[15:07:55] [Thread-15/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:07:55] [Thread-15/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:07:55] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:07:55] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:07:55] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:07:55] [Thread-15/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:07:55] [Thread-15/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:07:55] [Thread-15/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:07:55] [Thread-15/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:07:55] [Thread-15/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:07:55] [Thread-15/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:07:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56434.
+[15:07:55] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56440.
+[15:07:55] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[15:07:55] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[15:07:57] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[15:07:57] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[15:07:57] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:159)
+[15:07:57] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:122)
+[15:07:57] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:102)
+[15:07:57] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:163)
+[15:07:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:07:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353)
+[15:07:57] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:730)
+[15:07:57] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399)
+[15:07:57] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675)
+[15:07:57] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574)
+[15:07:57] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:07:57] [Server thread/INFO]: Boom!![m
+[15:08:16] [Thread-17/WARN]: java.net.SocketException: Connection reset
+[15:08:16] [Thread-17/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:08:16] [Thread-17/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:08:16] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:08:16] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:08:16] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:08:16] [Thread-17/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:08:16] [Thread-17/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:08:16] [Thread-17/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:08:16] [Thread-17/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:08:16] [Thread-17/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:08:16] [Thread-17/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:08:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56440.
+[15:08:17] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56450.
+[15:08:17] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[15:08:17] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[15:08:18] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[15:08:18] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: 6
+[15:08:18] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:159)
+[15:08:18] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:122)
+[15:08:18] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:102)
+[15:08:18] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:163)
+[15:08:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:71)
+[15:08:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353)
+[15:08:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:730)
+[15:08:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399)
+[15:08:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675)
+[15:08:18] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574)
+[15:08:18] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:08:18] [Server thread/INFO]: Boom!![m
+[15:09:05] [Thread-19/WARN]: java.net.SocketException: Connection reset
+[15:09:05] [Thread-19/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:09:05] [Thread-19/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:09:05] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:09:05] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:09:05] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:09:05] [Thread-19/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:09:05] [Thread-19/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:09:05] [Thread-19/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:09:05] [Thread-19/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:09:05] [Thread-19/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:09:05] [Thread-19/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:09:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56450.
+[15:09:05] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56456.
+[15:09:05] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[15:09:05] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[15:09:07] [Server thread/INFO]: Boom!![m
+[15:24:44] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56602.
+[15:24:44] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[15:24:44] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[15:24:44] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56602.
+[15:24:48] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56603.
+[15:24:48] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[15:24:48] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[15:24:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56603.
+[15:27:23] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56607.
+[15:27:23] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[15:27:23] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[15:27:36] [Server thread/INFO]: World is immutable[m
+[15:27:52] [Thread-27/WARN]: java.net.SocketException: Connection reset
+[15:27:52] [Thread-27/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:27:52] [Thread-27/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:27:52] [Thread-27/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:27:52] [Thread-27/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:27:52] [Thread-27/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:27:52] [Thread-27/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:27:52] [Thread-27/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:27:52] [Thread-27/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:27:52] [Thread-27/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:27:52] [Thread-27/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:27:52] [Thread-27/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:27:52] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56607.
+[15:27:52] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56618.
+[15:27:52] [Thread-29/INFO]: [RaspberryJuice] Starting input thread
+[15:27:52] [Thread-30/INFO]: [RaspberryJuice] Starting output thread!
+[15:27:54] [Server thread/INFO]: World is mutable[m
+[15:37:55] [Thread-29/WARN]: java.net.SocketException: Connection reset
+[15:37:55] [Thread-29/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:37:55] [Thread-29/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:37:55] [Thread-29/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:37:55] [Thread-29/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:37:55] [Thread-29/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:37:55] [Thread-29/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:37:55] [Thread-29/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:37:55] [Thread-29/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:37:55] [Thread-29/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:37:55] [Thread-29/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:37:55] [Thread-29/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:37:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56618.
+[15:41:16] [Thread-21/WARN]: java.net.SocketException: Connection reset
+[15:41:16] [Thread-21/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:41:16] [Thread-21/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:41:16] [Thread-21/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:41:16] [Thread-21/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:41:16] [Thread-21/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:41:16] [Thread-21/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:41:16] [Thread-21/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:41:16] [Thread-21/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:41:16] [Thread-21/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:41:16] [Thread-21/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:41:16] [Thread-21/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:41:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56456.
+[15:41:16] [Thread-32/INFO]: [RaspberryJuice] Starting output thread!
+[15:41:16] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56661.
+[15:41:16] [Thread-31/INFO]: [RaspberryJuice] Starting input thread
+[15:47:18] [Thread-31/WARN]: java.net.SocketException: Connection reset
+[15:47:18] [Thread-31/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:47:18] [Thread-31/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:47:18] [Thread-31/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:47:18] [Thread-31/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:47:18] [Thread-31/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:47:18] [Thread-31/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:47:18] [Thread-31/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:47:18] [Thread-31/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:47:18] [Thread-31/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:47:18] [Thread-31/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:47:18] [Thread-31/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:47:18] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56661.
+[15:47:19] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56688.
+[15:47:19] [Thread-34/INFO]: [RaspberryJuice] Starting output thread!
+[15:47:19] [Thread-33/INFO]: [RaspberryJuice] Starting input thread
+[15:51:30] [Thread-33/WARN]: java.net.SocketException: Connection reset
+[15:51:30] [Thread-33/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:51:30] [Thread-33/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:51:30] [Thread-33/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:51:30] [Thread-33/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:51:30] [Thread-33/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:51:30] [Thread-33/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:51:30] [Thread-33/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:51:30] [Thread-33/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:51:30] [Thread-33/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:51:30] [Thread-33/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:51:30] [Thread-33/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:51:30] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56688.
+[15:51:30] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56702.
+[15:51:30] [Thread-35/INFO]: [RaspberryJuice] Starting input thread
+[15:51:30] [Thread-36/INFO]: [RaspberryJuice] Starting output thread!
+[15:53:23] [Thread-35/WARN]: java.net.SocketException: Connection reset
+[15:53:23] [Thread-35/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:53:23] [Thread-35/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[15:53:23] [Thread-35/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[15:53:23] [Thread-35/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[15:53:23] [Thread-35/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[15:53:23] [Thread-35/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[15:53:23] [Thread-35/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[15:53:23] [Thread-35/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:53:23] [Thread-35/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[15:53:23] [Thread-35/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[15:53:23] [Thread-35/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:53:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56702.
+[16:39:10] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56812.
+[16:39:10] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
+[16:39:10] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
+[16:39:10] [Server thread/INFO]: Final score: 0[m
+[16:39:33] [Thread-37/WARN]: java.net.SocketException: Connection reset
+[16:39:33] [Thread-37/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:39:33] [Thread-37/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:39:33] [Thread-37/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:39:33] [Thread-37/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:39:33] [Thread-37/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:39:33] [Thread-37/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:39:33] [Thread-37/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:39:33] [Thread-37/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:39:33] [Thread-37/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:39:33] [Thread-37/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:39:33] [Thread-37/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:39:34] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56812.
+[16:39:34] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56818.
+[16:39:34] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
+[16:39:34] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
+[16:39:34] [Server thread/INFO]: Final score: 0[m
+[16:39:39] [Thread-39/WARN]: java.net.SocketException: Connection reset
+[16:39:39] [Thread-39/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:39:39] [Thread-39/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:39:39] [Thread-39/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:39:39] [Thread-39/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:39:39] [Thread-39/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:39:39] [Thread-39/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:39:39] [Thread-39/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:39:39] [Thread-39/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:39:39] [Thread-39/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:39:39] [Thread-39/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:39:39] [Thread-39/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:39:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56818.
+[16:39:39] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56820.
+[16:39:39] [Thread-41/INFO]: [RaspberryJuice] Starting input thread
+[16:39:39] [Thread-42/INFO]: [RaspberryJuice] Starting output thread!
+[16:39:40] [Server thread/INFO]: Final score: 0[m
+[16:39:54] [Thread-41/WARN]: java.net.SocketException: Connection reset
+[16:39:54] [Thread-41/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:39:54] [Thread-41/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:39:54] [Thread-41/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:39:54] [Thread-41/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:39:54] [Thread-41/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:39:54] [Thread-41/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:39:54] [Thread-41/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:39:54] [Thread-41/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:39:54] [Thread-41/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:39:54] [Thread-41/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:39:54] [Thread-41/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:39:54] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56820.
+[16:39:55] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56826.
+[16:39:55] [Thread-43/INFO]: [RaspberryJuice] Starting input thread
+[16:39:55] [Thread-44/INFO]: [RaspberryJuice] Starting output thread!
+[16:39:55] [Server thread/INFO]: Final score: 0[m
+[16:40:39] [Thread-43/WARN]: java.net.SocketException: Connection reset
+[16:40:39] [Thread-43/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:40:39] [Thread-43/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:40:39] [Thread-43/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:40:39] [Thread-43/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:40:39] [Thread-43/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:40:39] [Thread-43/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:40:39] [Thread-43/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:40:39] [Thread-43/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:40:39] [Thread-43/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:40:39] [Thread-43/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:40:39] [Thread-43/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:40:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56826.
+[16:40:39] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56829.
+[16:40:39] [Thread-45/INFO]: [RaspberryJuice] Starting input thread
+[16:40:39] [Thread-46/INFO]: [RaspberryJuice] Starting output thread!
+[16:40:39] [Server thread/INFO]: Final score: 0[m
+[16:40:48] [Thread-45/WARN]: java.net.SocketException: Connection reset
+[16:40:48] [Thread-45/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:40:48] [Thread-45/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:40:48] [Thread-45/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:40:48] [Thread-45/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:40:48] [Thread-45/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:40:48] [Thread-45/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:40:48] [Thread-45/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:40:48] [Thread-45/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:40:48] [Thread-45/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:40:48] [Thread-45/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:40:48] [Thread-45/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:40:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56829.
+[16:40:48] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56835.
+[16:40:48] [Thread-47/INFO]: [RaspberryJuice] Starting input thread
+[16:40:48] [Thread-48/INFO]: [RaspberryJuice] Starting output thread!
+[16:40:49] [Server thread/INFO]: Final score: 0[m
+[16:41:28] [Thread-47/WARN]: java.net.SocketException: Connection reset
+[16:41:28] [Thread-47/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:41:28] [Thread-47/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:41:28] [Thread-47/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:41:28] [Thread-47/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:41:28] [Thread-47/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:41:28] [Thread-47/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:41:28] [Thread-47/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:41:28] [Thread-47/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:41:28] [Thread-47/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:41:28] [Thread-47/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:41:28] [Thread-47/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:41:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56835.
+[16:41:28] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56841.
+[16:41:28] [Thread-49/INFO]: [RaspberryJuice] Starting input thread
+[16:41:28] [Thread-50/INFO]: [RaspberryJuice] Starting output thread!
+[16:41:28] [Server thread/INFO]: 0[m
+[16:41:28] [Server thread/INFO]: Final score: 0[m
+[16:41:38] [Thread-49/WARN]: java.net.SocketException: Connection reset
+[16:41:38] [Thread-49/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:41:38] [Thread-49/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:41:38] [Thread-49/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:41:38] [Thread-49/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:41:38] [Thread-49/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:41:38] [Thread-49/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:41:38] [Thread-49/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:41:38] [Thread-49/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:41:38] [Thread-49/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:41:38] [Thread-49/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:41:38] [Thread-49/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:41:38] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56841.
+[16:41:38] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56847.
+[16:41:38] [Thread-51/INFO]: [RaspberryJuice] Starting input thread
+[16:41:38] [Thread-52/INFO]: [RaspberryJuice] Starting output thread!
+[16:41:38] [Server thread/INFO]: 9[m
+[16:41:38] [Server thread/INFO]: Final score: 0[m
+[16:42:07] [Thread-51/WARN]: java.net.SocketException: Connection reset
+[16:42:07] [Thread-51/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:42:07] [Thread-51/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:42:07] [Thread-51/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:42:07] [Thread-51/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:42:07] [Thread-51/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:42:07] [Thread-51/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:42:07] [Thread-51/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:42:07] [Thread-51/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:42:07] [Thread-51/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:42:07] [Thread-51/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:42:07] [Thread-51/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:42:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56847.
+[16:42:08] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56853.
+[16:42:08] [Thread-53/INFO]: [RaspberryJuice] Starting input thread
+[16:42:08] [Thread-54/INFO]: [RaspberryJuice] Starting output thread!
+[16:42:08] [Server thread/INFO]: 0[m
+[16:42:08] [Server thread/INFO]: Final score: 0[m
+[16:42:14] [Thread-53/WARN]: java.net.SocketException: Connection reset
+[16:42:14] [Thread-53/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:42:14] [Thread-53/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:42:14] [Thread-53/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:42:14] [Thread-53/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:42:14] [Thread-53/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:42:14] [Thread-53/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:42:14] [Thread-53/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:42:14] [Thread-53/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:42:14] [Thread-53/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:42:14] [Thread-53/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:42:14] [Thread-53/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:42:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56853.
+[16:42:15] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56855.
+[16:42:15] [Thread-55/INFO]: [RaspberryJuice] Starting input thread
+[16:42:15] [Thread-56/INFO]: [RaspberryJuice] Starting output thread!
+[16:42:15] [Server thread/INFO]: 9[m
+[16:42:15] [Server thread/INFO]: Final score: 0[m
+[16:42:26] [Thread-55/WARN]: java.net.SocketException: Connection reset
+[16:42:26] [Thread-55/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:42:26] [Thread-55/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[16:42:26] [Thread-55/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[16:42:26] [Thread-55/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[16:42:26] [Thread-55/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[16:42:26] [Thread-55/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[16:42:26] [Thread-55/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[16:42:26] [Thread-55/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:42:26] [Thread-55/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[16:42:26] [Thread-55/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[16:42:26] [Thread-55/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[16:42:26] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56855.
+[16:42:26] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56857.
+[16:42:26] [Thread-57/INFO]: [RaspberryJuice] Starting input thread
+[16:42:26] [Thread-58/INFO]: [RaspberryJuice] Starting output thread!
+[16:42:26] [Server thread/INFO]: 9[m
+[16:42:27] [Server thread/INFO]: Current score: 1[m
+[16:42:29] [Server thread/INFO]: Current score: 2[m
+[16:42:30] [Server thread/INFO]: Current score: 3[m
+[16:42:31] [Server thread/INFO]: Current score: 4[m
+[16:42:32] [Server thread/INFO]: Current score: 5[m
+[16:42:33] [Server thread/INFO]: Current score: 6[m
+[16:42:34] [Server thread/INFO]: Current score: 7[m
+[16:42:35] [Server thread/INFO]: Current score: 8[m
+[16:42:36] [Server thread/INFO]: Current score: 9[m
+[16:42:37] [Server thread/INFO]: Current score: 10[m
+[16:42:37] [Server thread/INFO]: Final score: 10[m
+[18:07:42] [Thread-57/WARN]: java.net.SocketException: Connection reset
+[18:07:42] [Thread-57/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:07:42] [Thread-57/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:07:42] [Thread-57/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:07:42] [Thread-57/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:07:42] [Thread-57/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:07:42] [Thread-57/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:07:42] [Thread-57/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:07:42] [Thread-57/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:07:42] [Thread-57/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:07:42] [Thread-57/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:07:42] [Thread-57/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:07:42] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56857.
+[18:07:42] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57103.
+[18:07:42] [Thread-59/INFO]: [RaspberryJuice] Starting input thread
+[18:07:42] [Thread-60/INFO]: [RaspberryJuice] Starting output thread!
+[18:08:23] [Thread-59/WARN]: java.net.SocketException: Connection reset
+[18:08:23] [Thread-59/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:08:23] [Thread-59/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:08:23] [Thread-59/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:08:23] [Thread-59/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:08:23] [Thread-59/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:08:23] [Thread-59/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:08:23] [Thread-59/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:08:23] [Thread-59/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:08:23] [Thread-59/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:08:23] [Thread-59/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:08:23] [Thread-59/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:08:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57103.
+[18:08:23] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57110.
+[18:08:23] [Thread-61/INFO]: [RaspberryJuice] Starting input thread
+[18:08:23] [Thread-62/INFO]: [RaspberryJuice] Starting output thread!
+[18:16:16] [Thread-61/WARN]: java.net.SocketException: Connection reset
+[18:16:16] [Thread-61/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:16:16] [Thread-61/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:16:16] [Thread-61/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:16:16] [Thread-61/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:16:16] [Thread-61/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:16:16] [Thread-61/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:16:16] [Thread-61/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:16:16] [Thread-61/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:16:16] [Thread-61/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:16:16] [Thread-61/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:16:16] [Thread-61/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:16:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57110.
+[18:16:17] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57129.
+[18:16:17] [Thread-64/INFO]: [RaspberryJuice] Starting output thread!
+[18:16:17] [Thread-63/INFO]: [RaspberryJuice] Starting input thread
+[18:16:17] [Server thread/INFO]: Block set[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:17] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:18] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:19] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:20] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:21] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:22] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:23] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:24] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:25] [Server thread/INFO]: Cold[m
+[18:16:26] [Server thread/INFO]: Cold[m
+[18:16:26] [Server thread/INFO]: Cold[m
+[18:16:26] [Server thread/INFO]: Cold[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:26] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:27] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Freezing[m
+[18:16:28] [Server thread/INFO]: Cold[m
+[18:16:28] [Server thread/INFO]: Cold[m
+[18:16:28] [Server thread/INFO]: Cold[m
+[18:16:28] [Server thread/INFO]: Cold[m
+[18:16:28] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:29] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:30] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:31] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:32] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:33] [Server thread/INFO]: Cold[m
+[18:16:34] [Server thread/INFO]: Cold[m
+[18:16:34] [Server thread/INFO]: Cold[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:34] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:35] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:36] [Server thread/INFO]: Warm[m
+[18:16:37] [Server thread/INFO]: Warm[m
+[18:16:37] [Server thread/INFO]: Warm[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:37] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: Boiling[m
+[18:16:38] [Server thread/INFO]: On fire![m
+[18:16:38] [Server thread/INFO]: On fire![m
+[18:16:38] [Server thread/INFO]: On fire![m
+[18:16:38] [Server thread/INFO]: On fire![m
+[18:16:38] [Server thread/INFO]: On fire![m
+[18:16:38] [Server thread/INFO]: On fire![m
+[18:16:38] [Server thread/INFO]: On fire![m
+[18:16:38] [Server thread/INFO]: On fire![m
+[18:16:38] [Server thread/INFO]: On fire![m
+[18:16:39] [Server thread/INFO]: On fire![m
+[18:16:39] [Server thread/INFO]: On fire![m
+[18:16:39] [Server thread/INFO]: On fire![m
+[18:16:39] [Server thread/INFO]: On fire![m
+[18:16:39] [Server thread/INFO]: On fire![m
+[18:16:39] [Server thread/INFO]: On fire![m
+[18:16:39] [Server thread/INFO]: On fire![m
+[18:17:10] [Async Chat Thread - #0/INFO]: <Rod> t[m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:14] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:15] [Server thread/INFO]: On fire![m
+[18:17:39] [Thread-63/WARN]: java.net.SocketException: Connection reset
+[18:17:39] [Thread-63/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:17:39] [Thread-63/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[18:17:39] [Thread-63/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[18:17:39] [Thread-63/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[18:17:39] [Thread-63/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[18:17:39] [Thread-63/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[18:17:39] [Thread-63/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[18:17:39] [Thread-63/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:17:39] [Thread-63/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[18:17:39] [Thread-63/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[18:17:39] [Thread-63/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:17:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57129.
+[18:17:39] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57142.
+[18:17:39] [Thread-65/INFO]: [RaspberryJuice] Starting input thread
+[18:17:39] [Thread-66/INFO]: [RaspberryJuice] Starting output thread!
+[18:17:39] [Server thread/INFO]: Block set[m
+[18:17:39] [Server thread/INFO]: Cold[m
+[18:17:39] [Server thread/INFO]: Cold[m
+[18:17:39] [Server thread/INFO]: Cold[m
+[18:17:39] [Server thread/INFO]: Cold[m
+[18:17:39] [Server thread/INFO]: Cold[m
+[18:17:39] [Server thread/INFO]: Cold[m
+[18:17:39] [Server thread/INFO]: Cold[m
+[18:17:39] [Server thread/INFO]: Cold[m
+[18:17:39] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:40] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:41] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:42] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:43] [Server thread/INFO]: Cold[m
+[18:17:44] [Server thread/INFO]: Cold[m
+[18:17:44] [Server thread/INFO]: Cold[m
+[18:17:44] [Server thread/INFO]: Cold[m
+[18:17:44] [Server thread/INFO]: Cold[m
+[18:17:44] [Server thread/INFO]: Cold[m
+[18:17:44] [Server thread/INFO]: Cold[m
+[18:17:44] [Server thread/INFO]: Cold[m
+[18:17:44] [Server thread/INFO]: Cold[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:44] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:45] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:46] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:47] [Server thread/INFO]: Warm[m
+[18:17:48] [Server thread/INFO]: Warm[m
+[18:17:48] [Server thread/INFO]: Warm[m
+[18:17:48] [Server thread/INFO]: Warm[m
+[18:17:48] [Server thread/INFO]: Warm[m
+[18:17:48] [Server thread/INFO]: Warm[m
+[18:17:48] [Server thread/INFO]: Warm[m
+[18:17:48] [Server thread/INFO]: Warm[m
+[18:17:48] [Server thread/INFO]: Warm[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:48] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:49] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:50] [Server thread/INFO]: Cold[m
+[18:17:51] [Server thread/INFO]: Cold[m
+[18:17:51] [Server thread/INFO]: Cold[m
+[18:17:51] [Server thread/INFO]: Cold[m
+[18:17:51] [Server thread/INFO]: Cold[m
+[18:17:51] [Server thread/INFO]: Cold[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:51] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Warm[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:52] [Server thread/INFO]: Boiling[m
+[18:17:53] [Server thread/INFO]: Boiling[m
+[18:17:53] [Server thread/INFO]: Boiling[m
+[18:17:53] [Server thread/INFO]: On fire![m
+[18:17:53] [Server thread/INFO]: On fire![m
+[18:17:53] [Server thread/INFO]: On fire![m
+[18:17:53] [Server thread/INFO]: On fire![m
+[18:17:53] [Server thread/INFO]: On fire![m
+[18:17:53] [Server thread/INFO]: On fire![m
+[18:17:53] [Server thread/INFO]: Found it[m
