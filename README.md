@@ -1,7 +1,8 @@
 # Minecraft-Python
 Repositorio para el taller de "Programando con Minecraft"
 
-Link para descargar launcher de Minecraft: http://zonacraft.net/descargar-minecraft-launcher-fenix/
+Link para descargar launcher de Minecraft WINDOWS: http://zonacraft.net/descargar-minecraft-launcher-fenix/
+Link para descargar launcher de Minecraft MAC/Linux: https://mcleaks.net/authenticator https://www.minecraft.net/en-us/download/
 Usar la versión 1.11.2
 
 Link para desvrgar Python: https://www.python.org/downloads/
